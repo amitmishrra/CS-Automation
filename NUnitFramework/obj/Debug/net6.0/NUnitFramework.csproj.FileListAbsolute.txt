@@ -1,0 +1,15 @@
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\bin\Debug\net6.0\NUnitFramework.deps.json
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\bin\Debug\net6.0\NUnitFramework.dll
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\bin\Debug\net6.0\NUnitFramework.pdb
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\NUnitFramework.csproj.AssemblyReference.cache
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\NUnitFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\NUnitFramework.AssemblyInfoInputs.cache
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\NUnitFramework.AssemblyInfo.cs
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\NUnitFramework.csproj.CoreCompileInputs.cache
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\NUnitFramework.dll
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\refint\NUnitFramework.dll
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\NUnitFramework.pdb
+C:\Users\Amit\source\repos\NUnitFramework\NUnitFramework\obj\Debug\net6.0\ref\NUnitFramework.dll

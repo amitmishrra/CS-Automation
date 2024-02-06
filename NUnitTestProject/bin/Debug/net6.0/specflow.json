@@ -1,0 +1,7 @@
+{
+  "specFlow": {
+    "runtime": {
+      "testThreadIsolation": "AppDomain"
+    }
+  }
+}
